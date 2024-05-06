@@ -1,0 +1,1 @@
+This is a personal project with the goal of analyzing subreddits to find the most useful information from the 'Hot Posts.' It is meant to summarize information and provide the most relevant phrases that are being mentioned in posts.
